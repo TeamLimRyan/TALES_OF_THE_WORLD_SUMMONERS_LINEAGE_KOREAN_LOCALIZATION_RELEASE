@@ -1,0 +1,7 @@
+550aa8ac8f176171ec524825f9fe6c2a19f0a3237ae78c7edc0a62f57157ba11  Tales_of_the_World_Summoners_Lineage_KO.xdelta
+
+# Supported source ROM (not distributed)
+b41c293fc0ed6111b7a37d960d9cd0c685e5d521a4739e0e2eaa7ff6186cfdd3  Tales of the World - Summoner's Lineage (Japan).gba
+
+# Expected patched ROM (not distributed)
+43c315b28b54c944aa862c838d54c464c4c66bdaa1214ce739113ba6b8860be4  summoners_lineage_ko.gba
