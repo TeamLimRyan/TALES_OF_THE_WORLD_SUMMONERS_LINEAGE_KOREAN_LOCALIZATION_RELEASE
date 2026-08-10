@@ -1,8 +1,8 @@
 {
-  "release_state": "READY_FOR_OWNER_APPROVAL",
+  "release_state": "PUBLIC_REPOSITORY_CREATED_RELEASE_PENDING",
   "version": "v1.0.0",
   "repository": "TeamLimRyan/TALES_OF_THE_WORLD_SUMMONERS_LINEAGE_KOREAN_LOCALIZATION_RELEASE",
-  "external_publication": false,
+  "external_publication": true,
   "source": {
     "game_code": "A9PJ",
     "size": 8388608,

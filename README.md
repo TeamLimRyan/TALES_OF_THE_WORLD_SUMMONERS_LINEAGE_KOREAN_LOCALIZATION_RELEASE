@@ -1,6 +1,6 @@
 # 테일즈 오브 더 월드 ~서머너즈 리니지~ 한국어 패치
 
-> **v1.0.0 공개 승인 대기 준비본**
+> **v1.0.0 공개 릴리스**
 
 게임보이 어드밴스 일본판 `Tales of the World: Summoner's Lineage`용 비공식 한국어 현지화 패치 배포 저장소입니다.
 
@@ -21,7 +21,7 @@
 
 ## 다운로드
 
-공개 승인 후 GitHub Releases의 `v1.0.0`에 xdelta 패치를 첨부합니다. 저장소 Git 이력과 릴리스에는 원본 ROM, 완성 ROM, BIOS, 세이브 데이터를 포함하지 않습니다.
+최신 안정판은 [GitHub Releases의 v1.0.0](https://github.com/TeamLimRyan/TALES_OF_THE_WORLD_SUMMONERS_LINEAGE_KOREAN_LOCALIZATION_RELEASE/releases/tag/v1.0.0)에서 xdelta 패치를 받을 수 있습니다. 저장소 Git 이력과 릴리스에는 원본 ROM, 완성 ROM, BIOS, 세이브 데이터를 포함하지 않습니다.
 
 - 패치 파일: `Tales_of_the_World_Summoners_Lineage_KO.xdelta`
 - 패치 크기: `237,005 bytes`
