@@ -61,8 +61,8 @@ Get-FileHash "summoners_lineage_ko.gba" -Algorithm SHA256
 정상 결과:
 
 ```text
-크기     8,937,092 bytes
-SHA-256  43c315b28b54c944aa862c838d54c464c4c66bdaa1214ce739113ba6b8860be4
+크기     9,023,416 bytes
+SHA-256  ba353cfd547db33460711065cefec526920e39e4a09f2e3d4a3883c5ee36bc9e
 ```
 
 ## 6. 실행

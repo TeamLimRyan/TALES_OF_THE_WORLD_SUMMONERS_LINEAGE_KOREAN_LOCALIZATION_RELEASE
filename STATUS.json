@@ -1,14 +1,14 @@
 {
-  "release_state": "PUBLISHED",
-  "version": "v1.0.0",
+  "release_state": "OWNER_APPROVED_PUBLICATION",
+  "version": "v1.0.1",
   "repository": "TeamLimRyan/TALES_OF_THE_WORLD_SUMMONERS_LINEAGE_KOREAN_LOCALIZATION_RELEASE",
-  "external_publication": true,
+  "external_publication": false,
   "release": {
-    "tag": "v1.0.0",
-    "title": "테일즈 오브 더 월드 ~서머너즈 리니지~ 한국어 패치 v1.0.0",
-    "url": "https://github.com/TeamLimRyan/TALES_OF_THE_WORLD_SUMMONERS_LINEAGE_KOREAN_LOCALIZATION_RELEASE/releases/tag/v1.0.0",
-    "published_at": "2026-08-10T12:40:53Z",
-    "tag_commit": "90d5c9c8c0fec022af538c12096f2c00564a2842"
+    "tag": "v1.0.1",
+    "title": "테일즈 오브 더 월드 ~서머너즈 리니지~ 한국어 패치 v1.0.1",
+    "url": "https://github.com/TeamLimRyan/TALES_OF_THE_WORLD_SUMMONERS_LINEAGE_KOREAN_LOCALIZATION_RELEASE/releases/tag/v1.0.1",
+    "published_at": null,
+    "tag_commit": null
   },
   "source": {
     "game_code": "A9PJ",
@@ -17,23 +17,24 @@
   },
   "patch": {
     "path": "Tales_of_the_World_Summoners_Lineage_KO.xdelta",
-    "size": 237005,
-    "sha256": "550aa8ac8f176171ec524825f9fe6c2a19f0a3237ae78c7edc0a62f57157ba11",
-    "release_asset_url": "https://github.com/TeamLimRyan/TALES_OF_THE_WORLD_SUMMONERS_LINEAGE_KOREAN_LOCALIZATION_RELEASE/releases/download/v1.0.0/Tales_of_the_World_Summoners_Lineage_KO.xdelta",
-    "remote_digest": "sha256:550aa8ac8f176171ec524825f9fe6c2a19f0a3237ae78c7edc0a62f57157ba11",
-    "remote_download_verification": "PASS_EXACT_MATCH"
+    "size": 257128,
+    "sha256": "673d921ab3c29b585d1b7e2ccf28a9fa8b1a29cfbbc1d6791187c97cd24c856f",
+    "release_asset_url": "https://github.com/TeamLimRyan/TALES_OF_THE_WORLD_SUMMONERS_LINEAGE_KOREAN_LOCALIZATION_RELEASE/releases/download/v1.0.1/Tales_of_the_World_Summoners_Lineage_KO.xdelta",
+    "remote_digest": null,
+    "remote_download_verification": "PENDING"
   },
   "target": {
-    "size": 8937092,
-    "sha256": "43c315b28b54c944aa862c838d54c464c4c66bdaa1214ce739113ba6b8860be4",
+    "size": 9023416,
+    "sha256": "ba353cfd547db33460711065cefec526920e39e4a09f2e3d4a3883c5ee36bc9e",
     "roundtrip_match": true
   },
   "coverage": {
     "translated_text_rows": 5822,
-    "master_data_records": 743,
-    "master_name_fields": 1209,
+    "master_data_records": 744,
+    "master_name_fields": 1210,
     "localized_images": 70,
     "hangul_syllables": 11172,
+    "compact_hangul_syllables": 11172,
     "keyboard_keys": 55
   }
 }
